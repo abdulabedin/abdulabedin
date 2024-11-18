@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abdul Abedin</h1>
-<h3 align="center">3rd year Computer Science student</h3>
+<h3 align="center">4th year Computer Science student</h3>
 
 
 - 💻 I’m currently interested in AI/Machine Learning
-- 🔭 Working @ **IBM as a Backend Developer Intern**
+- 🔭 Working @ **Ericsson as a Software Engineer Intern (5g)**
 - 📫 Send me an email: **abdul.abedin@torontomu.ca**
 
 
